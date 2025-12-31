@@ -1,9 +1,14 @@
 # 🎮NRF24L01 Controller and Receiver
+
 My project is an NRF24L01 Controller and Receiver. The idea is to use NRF communication to control any car or any RC device, in a way that allows it to be connected to any device, not dedicated to a single car, drone, or RC plane.
+
 ---
+
 # 🚀Usage of the Project
+
 Instead of buying an RC controller and receiver, you can DIY your own. It is more customizable, and you can control the number of channels and features according to your needs. With this controller, you are able to control an RC car, RC plane, RC boat, and any other RC device. The best thing is that it is upgradable: you can upgrade the joysticks to higher-quality ones for more precision, the NRF module to a better one with more range, and even the battery and other components. This flexibility is why it is better than the commercial one.
 
+---
 
 # ✨Features
 * 📶Long range
